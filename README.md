@@ -1,4 +1,4 @@
-## Welcome to my Profile! 👋
+## Welcome to my Profile 👋
 
 <!--
 **sudaisnadeemhere/sudaisnadeemhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
