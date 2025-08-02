@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudaisnadeemhere&show_icons=true&locale=en" alt="sudaisnadeemhere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisnadeemhere&" alt="sudaisnadeemhere" /></p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
