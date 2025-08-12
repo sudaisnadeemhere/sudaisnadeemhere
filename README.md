@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 <!-- Profile Picture & Socials -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/15300393?v=4" width="150" height="150" style="border-radius:50%;" alt="Profile Picture"/>
-  <br>
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEMVTADVLEj_Q/profile-displayphoto-shrink_200_200/B56ZfBUr8XHQAY-/0/1751295116435?e=1758153600&v=beta&t=I_6xwz7T85epMDJV-Wv0u3sGeYHsPwJ6VT3srSBkhq4" width="150" height="190" style="border-radius:50%;" alt="Profile Picture"/>
+  <br> <br>
   <a href="mailto:sudais731@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/sudais-khan-42a4a6372"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sudaisnadeemhere"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
