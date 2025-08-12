@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ![github-header-image (1)](https://github.com/user-attachments/assets/3cb642e5-223c-4488-8419-b36ba6fd3fd3)
 
 <h1 align="center">Hi 👋, I'm Sudais Nadeem</h1>
@@ -47,3 +48,100 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+-->
+<!-- Large Animated SVG Banner for "Background" color -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fc466b,100:3f5efb&height=180&section=header&text=Sudais%20Nadeem%20%7C%20Web%20Developer&fontSize=45&fontAlign=50&fontColor=FFFFFF" alt="Profile banner"/>
+</p>
+
+<!-- Profile Picture & Socials -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/15300393?v=4" width="150" height="150" style="border-radius:50%;" alt="Profile Picture"/>
+  <br>
+  <a href="mailto:sudais731@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/sudais-khan-42a4a6372"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sudaisnadeemhere"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F78400&center=true&vCenter=true&width=700&lines=Welcome+to+my+interactive+GitHub+profile!;Frontend+Designer+%7C+Infinite+Looper+%7C+Web+Creator" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- About Section -->
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+  <samp>
+    Hi, I'm Sudais Nadeem, a creative web developer and designer.<br>
+    My favorite playgrounds are <b>HTML, CSS, JavaScript, Figma, Bootstrap, and GitHub</b>.<br>
+    I specialize in crafting beautiful, responsive, and interactive websites.<br>
+    I love transforming ideas into digital experiences, and I'm always in search of the next infinite loop!<br>
+    <br>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/>
+  </samp>
+</p>
+
+---
+
+<!-- Tech Stack Section -->
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 Github Stats & Activity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudaisnadeemhere&show_icons=true&theme=omni" width="430"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisnadeemhere&theme=omni" width="380"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudaisnadeemhere&theme=omni"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudaisnadeemhere&theme=omni&row=1&column=7"/>
+</p>
+
+---
+
+<!-- Projects Showcase -->
+<h2 align="center">🚀 Featured Project</h2>
+<p align="center">
+  <a href="https://sudaisnadeemhere.github.io/electronics-website/">
+    <img src="https://img.shields.io/badge/Electronics%20Website-Visit%20Project-orange?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<!-- Fun Facts & Quotes -->
+<h2 align="center">💡 Fun Facts & Quotes</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=omni" alt="Jokes Card" />
+  <br>
+  <blockquote>
+    Fact: I love <b>infinite loops</b>!<br>
+    "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+  </blockquote>
+</p>
+
+---
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudaisnadeemhere&style=for-the-badge&color=orange" alt="Profile views"/>
+</p>
+
+<!-- Large Animated SVG Banner for "Background" color (Footer) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:fc466b,100:3f5efb"/>
+</p>
